@@ -170,3 +170,12 @@ ul {
     border-radius: 5px;
     color: #fff;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #fff;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
